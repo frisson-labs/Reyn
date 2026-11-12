@@ -1,0 +1,105 @@
+character,special_move,phrase,alternative_phrase,character_name_required
+bowser,down_b,bowser bomb,use bowser bomb,False
+bowser,neutral_b,fire breath,use fire breath,False
+bowser,side_b,koopa klaw,use koopa klaw,False
+bowser,up_b,fortress,use fortress,False
+donkey_kong,down_b,hand slap,use hand slap,False
+donkey_kong,neutral_b,giant punch,use giant punch,False
+donkey_kong,side_b,headbutt,use headbutt,False
+donkey_kong,up_b,spinning kong,use spinning kong,False
+dr_mario,down_b,dr. tornado,use dr. tornado,False
+dr_mario,neutral_b,megavitamin,use megavitamin,False
+dr_mario,side_b,super sheet,use super sheet,False
+dr_mario,up_b,doc jump punch,use doc jump punch,True
+falco,down_b,shine,use shine,False
+falco,neutral_b,laser,use laser,False
+falco,side_b,phantasm,use phantasm,False
+falco,up_b,fire bird,use fire bird,False
+falcon,down_b,falcon kick,use falcon kick,False
+falcon,neutral_b,falcon punch,use falcon punch,False
+falcon,side_b,raptor boost,use raptor boost,False
+falcon,up_b,falcon dive,use falcon dive,False
+fox,down_b,shine,use shine,False
+fox,neutral_b,laser,use laser,False
+fox,side_b,illusion,use illusion,False
+fox,up_b,fire fox,use fire fox,False
+game_and_watch,down_b,oil panic,use oil panic,False
+game_and_watch,neutral_b,chef,use chef,False
+game_and_watch,side_b,judge,use judge,False
+game_and_watch,up_b,game watch fire,use game watch fire,True
+ganondorf,down_b,wizard's foot,use wizard's foot,False
+ganondorf,neutral_b,warlock punch,use warlock punch,False
+ganondorf,side_b,gerudo dragon,use gerudo dragon,False
+ganondorf,up_b,dark dive,use dark dive,False
+ice_climbers,down_b,blizzard,use blizzard,False
+ice_climbers,neutral_b,ice shot,use ice shot,False
+ice_climbers,side_b,squall hammer,use squall hammer,False
+ice_climbers,up_b,belay,use belay,False
+jigglypuff,down_b,rest,use rest,False
+jigglypuff,neutral_b,rollout,use rollout,False
+jigglypuff,side_b,pound,use pound,False
+jigglypuff,up_b,sing,use sing,False
+kirby,down_b,stone,use stone,False
+kirby,neutral_b,swallow,use swallow,False
+kirby,side_b,hammer,use hammer,False
+kirby,up_b,final cutter,use final cutter,False
+link,down_b,bomb,use bomb,False
+link,neutral_b,bow,use bow,False
+link,side_b,boomerang,use boomerang,False
+link,up_b,spin attack,use spin attack,False
+luigi,down_b,luigi cyclone,use luigi cyclone,False
+luigi,neutral_b,luigi fireball,use luigi fireball,True
+luigi,side_b,green missile,use green missile,False
+luigi,up_b,luigi jump punch,use luigi jump punch,True
+mario,down_b,tornado,use tornado,False
+mario,neutral_b,mario fireball,use mario fireball,True
+mario,side_b,cape,use cape,False
+mario,up_b,mario jump punch,use mario jump punch,True
+marth,down_b,counter,use counter,False
+marth,neutral_b,shield breaker,use shield breaker,False
+marth,side_b,dancing blade,use dancing blade,False
+marth,up_b,dolphin slash,do dolphin slash,False
+mewtwo,down_b,disable,use disable,False
+mewtwo,neutral_b,shadow ball,use shadow ball,False
+mewtwo,side_b,confusion,use confusion,False
+mewtwo,up_b,teleport,use teleport,False
+ness,down_b,psi magnet,use psi magnet,False
+ness,neutral_b,pk flash,use pk flash,False
+ness,side_b,pk fire,use pk fire,False
+ness,up_b,pk thunder,use pk thunder,False
+peach,down_b,turnip,pull a turnip,False
+peach,neutral_b,toad,use toad,False
+peach,side_b,peach bomber,use peach bomber,False
+peach,up_b,parasol,use parasol,False
+pichu,down_b,thunder,use thunder,False
+pichu,neutral_b,thunder jolt,use thunder jolt,False
+pichu,side_b,skull bash,use skull bash,False
+pichu,up_b,agility,use agility,False
+pikachu,down_b,thunder,use thunder,False
+pikachu,neutral_b,thunder jolt,use thunder jolt,False
+pikachu,side_b,skull bash,use skull bash,False
+pikachu,up_b,quick attack,use quick attack,False
+roy,down_b,counter,use counter,False
+roy,neutral_b,flare blade,use flare blade,False
+roy,side_b,double-edge,use double-edge,False
+roy,up_b,blazer,use blazer,False
+samus,down_b,bomb,use bomb,False
+samus,neutral_b,charge shot,use charge shot,False
+samus,side_b,missile,use missile,False
+samus,up_b,screw attack,use screw attack,False
+sheik,down_b,transform,use transform,False
+sheik,neutral_b,needle storm,use needle storm,False
+sheik,side_b,chain,use chain,False
+sheik,up_b,vanish,use vanish,False
+yoshi,down_b,yoshi bomb,use yoshi bomb,False
+yoshi,neutral_b,egg lay,use egg lay,False
+yoshi,side_b,egg roll,use egg roll,False
+yoshi,up_b,egg throw,use egg throw,False
+young_link,down_b,bomb,use bomb,False
+young_link,neutral_b,fire bow,use fire bow,False
+young_link,side_b,boomerang,use boomerang,False
+young_link,up_b,spin attack,use spin attack,False
+zelda,down_b,transform,use transform,False
+zelda,neutral_b,nayru's love,use nayru's love,False
+zelda,side_b,din's fire,use din's fire,False
+zelda,up_b,farore's wind,use farore's wind,False

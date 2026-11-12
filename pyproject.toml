@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reyn-inference"
+version = "0.1.0"
+description = "Inference for Reyn language steering and Wombo Combo"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = ["torch>=2.5,<3"]
+
+[tool.setuptools.packages.find]
+include = ["reyn", "reyn.*"]
+
+[tool.ruff]
+target-version = "py311"
+line-length = 120
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B", "SIM", "RUF"]
+
+[tool.mypy]
+python_version = "3.12"
+check_untyped_defs = true
+disallow_untyped_defs = true

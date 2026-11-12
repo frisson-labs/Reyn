@@ -1,0 +1,716 @@
+[
+  {
+    "id": "C1",
+    "label": "Aggressive play",
+    "section": "Play style",
+    "conditioning": "Aim to give me very little breathing room when your attacks can reach.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "C2",
+    "label": "Defensive play",
+    "section": "Play style",
+    "conditioning": "Play defensive.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "D1",
+    "label": "Safe play",
+    "section": "Play style",
+    "conditioning": "Play safe.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "D4",
+    "label": "Stock protection",
+    "section": "Play style",
+    "conditioning": "Don't die.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "H2",
+    "label": "Grab avoidance",
+    "section": "Play style",
+    "conditioning": "Don't get grabbed.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "C3",
+    "label": "Slower pace",
+    "section": "Play style",
+    "conditioning": "After each attack, leave a half-second pause measured only while normal control is available.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "C4",
+    "label": "Faster pace",
+    "section": "Play style",
+    "conditioning": "Increase your action pace from the way you were playing a moment ago.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "C5",
+    "label": "Varied timing",
+    "section": "Play style",
+    "conditioning": "Change up how long you wait before attacking again.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M3",
+    "label": "Air play",
+    "section": "Play style",
+    "conditioning": "Favor airborne play whenever you have control outside a recovery.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "C6",
+    "label": "Ground play",
+    "section": "Play style",
+    "conditioning": "Favor grounded play whenever you have control outside a recovery.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M6",
+    "label": "Jump",
+    "section": "Movement",
+    "conditioning": "Jump from the ground.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M5",
+    "label": "Double jump",
+    "section": "Movement",
+    "conditioning": "Jump again in the air.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M13",
+    "label": "Double jump held back",
+    "section": "Movement",
+    "conditioning": "Keep your air jumps unused until you are recovering.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M4",
+    "label": "Air dodge",
+    "section": "Movement",
+    "conditioning": "Air-dodge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M9",
+    "label": "Dash dance",
+    "section": "Movement",
+    "conditioning": "Dash dance.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M10",
+    "label": "Fastfall",
+    "section": "Movement",
+    "conditioning": "Fastfall.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M11",
+    "label": "L-cancel",
+    "section": "Movement",
+    "conditioning": "L-cancel your aerials.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T19",
+    "label": "Wavedash",
+    "section": "Movement",
+    "conditioning": "Complete a wavedash from a ground jump.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "A5a",
+    "label": "Left side: move there",
+    "section": "Position and spacing",
+    "conditioning": "Go to the left side.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "PX1",
+    "label": "Left side: stay there",
+    "section": "Position and spacing",
+    "conditioning": "When you have control, favor playing on the left side.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "A5b",
+    "label": "Right side: move there",
+    "section": "Position and spacing",
+    "conditioning": "Go to the right side.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "PX2",
+    "label": "Right side: stay there",
+    "section": "Position and spacing",
+    "conditioning": "When you have control, favor playing on the right side.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "A1",
+    "label": "Centre of the stage",
+    "section": "Position and spacing",
+    "conditioning": "Keep to the center of the stage.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "B3",
+    "label": "Close spacing",
+    "section": "Position and spacing",
+    "conditioning": "Favor a small horizontal gap from your opponent while you have control.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "B2",
+    "label": "Far spacing",
+    "section": "Position and spacing",
+    "conditioning": "Favor wide horizontal spacing from your opponent while you have control.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "B6",
+    "label": "Approach",
+    "section": "Position and spacing",
+    "conditioning": "During the time you can steer horizontally, make movement toward your opponent your usual choice.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "PX3",
+    "label": "Holding position",
+    "section": "Position and spacing",
+    "conditioning": "Favor holding your horizontal position whenever you can steer horizontally.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M1",
+    "label": "Above the opponent",
+    "section": "Position and spacing",
+    "conditioning": "During the time you have control, make a position above your opponent your usual choice.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M2",
+    "label": "Below the opponent",
+    "section": "Position and spacing",
+    "conditioning": "During the time you have control, make a position below your opponent your usual choice.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "PL1",
+    "label": "Left platform",
+    "section": "Platforms",
+    "conditioning": "Go to the left platform.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL2",
+    "label": "Right platform",
+    "section": "Platforms",
+    "conditioning": "Go to the right platform.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL3",
+    "label": "Top platform",
+    "section": "Platforms",
+    "conditioning": "Go to the top platform.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL4",
+    "label": "On the platforms",
+    "section": "Platforms",
+    "conditioning": "Stay on the platforms.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL5",
+    "label": "Main floor",
+    "section": "Platforms",
+    "conditioning": "Stay on the main floor.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL6",
+    "label": "Follow onto the platform",
+    "section": "Platforms",
+    "conditioning": "Follow him onto the platform.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL7",
+    "label": "Off his platform",
+    "section": "Platforms",
+    "conditioning": "Don't share his platform.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL8",
+    "label": "Under his platform",
+    "section": "Platforms",
+    "conditioning": "Stay under his platform.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "PL9",
+    "label": "Platform above him",
+    "section": "Platforms",
+    "conditioning": "Get on the platform above him.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "E5",
+    "label": "Near the ledge",
+    "section": "Ledges and recovery",
+    "conditioning": "Wait by the ledge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "LG1",
+    "label": "Left ledge",
+    "section": "Ledges and recovery",
+    "conditioning": "Wait by the left ledge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "LG2",
+    "label": "Right ledge",
+    "section": "Ledges and recovery",
+    "conditioning": "Wait by the right ledge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T9",
+    "label": "Ledge hold",
+    "section": "Ledges and recovery",
+    "conditioning": "Take the ledge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T17",
+    "label": "Ledgedash",
+    "section": "Ledges and recovery",
+    "conditioning": "Ledgedash.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "E6",
+    "label": "Edgeguard from the stage",
+    "section": "Ledges and recovery",
+    "conditioning": "Attempt your edgeguards from onstage positions.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "E4b",
+    "label": "Low recovery",
+    "section": "Ledges and recovery",
+    "conditioning": "Aim for the ledge with a recovery from below.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "NX1",
+    "label": "Jab",
+    "section": "Attacks",
+    "conditioning": "Use your jab.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "NX2",
+    "label": "Up tilt",
+    "section": "Attacks",
+    "conditioning": "Use up tilt.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "NX3",
+    "label": "Down tilt",
+    "section": "Attacks",
+    "conditioning": "Use down tilt.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M23",
+    "label": "Tilts",
+    "section": "Attacks",
+    "conditioning": "Use tilts.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "NX4",
+    "label": "Forward smash",
+    "section": "Attacks",
+    "conditioning": "Use forward smash.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "NX5",
+    "label": "Down smash",
+    "section": "Attacks",
+    "conditioning": "Use down smash.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T7",
+    "label": "Up-smash",
+    "section": "Attacks",
+    "conditioning": "Up-smash him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M21",
+    "label": "Smash attack",
+    "section": "Attacks",
+    "conditioning": "Go for a smash attack.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T5",
+    "label": "Up-air",
+    "section": "Attacks",
+    "conditioning": "Choose up air for this attack.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T10",
+    "label": "Back-air",
+    "section": "Attacks",
+    "conditioning": "Back-air him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T11",
+    "label": "Down-air",
+    "section": "Attacks",
+    "conditioning": "Drill him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T12",
+    "label": "Neutral-air",
+    "section": "Attacks",
+    "conditioning": "Nair him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T14",
+    "label": "Dash attack",
+    "section": "Attacks",
+    "conditioning": "Use dash attack.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M19",
+    "label": "Aerials as the main attack",
+    "section": "Attacks",
+    "conditioning": "Choose aerial attacks for most of your offensive commitments.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M20",
+    "label": "Normals as the main attack",
+    "section": "Attacks",
+    "conditioning": "Choose normal attacks for most of your offensive commitments.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M22",
+    "label": "Specials as the main attack",
+    "section": "Attacks",
+    "conditioning": "Choose special attacks for most of your offensive commitments.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T1",
+    "label": "Grab",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Attempt a grab.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "NX6",
+    "label": "Throw",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Grab and throw your opponent.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T18",
+    "label": "Down-throw",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Down-throw him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "F2",
+    "label": "Throw off the stage",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Get your opponent offstage with a throw.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T2",
+    "label": "Grab into up-air",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Connect a grab, throw them, and continue the combo into an up air.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "CX1",
+    "label": "Combo",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Combo your opponent with two or more separate attacks.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "CX2",
+    "label": "Three-hit combo",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Do a three-hit combo.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T4",
+    "label": "Combo extension",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Continue looking for combo follow-ups until I break free.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "CX3",
+    "label": "Up-air as the combo ender",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Finish your combo with an up-air.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "CX4",
+    "label": "Up-smash as the kill move",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Kill with up-smash.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "D2",
+    "label": "Kill now",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Cause your opponent to lose a stock.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "D3",
+    "label": "Damage without the kill",
+    "section": "Grabs, throws and combos",
+    "conditioning": "Aim for the highest damage you can put on me while keeping my stock intact.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "DX1",
+    "label": "Shield",
+    "section": "Defense and punishes",
+    "conditioning": "Put your shield up.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M14",
+    "label": "No shielding on a worn shield",
+    "section": "Defense and punishes",
+    "conditioning": "Avoid shielding any time your shield health is below fifty percent.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "DX2",
+    "label": "Spot dodge",
+    "section": "Defense and punishes",
+    "conditioning": "Choose a spot dodge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "DX3",
+    "label": "Roll backward",
+    "section": "Defense and punishes",
+    "conditioning": "Choose the backward roll.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M24",
+    "label": "Roll forward",
+    "section": "Defense and punishes",
+    "conditioning": "Choose the forward roll.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "M25",
+    "label": "Rolls and dodges",
+    "section": "Defense and punishes",
+    "conditioning": "Roll and dodge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "B7",
+    "label": "Whiff punish",
+    "section": "Defense and punishes",
+    "conditioning": "Punish his whiffs.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "F5",
+    "label": "Landing punish",
+    "section": "Defense and punishes",
+    "conditioning": "Punish his landing.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "F3",
+    "label": "Tech-chase",
+    "section": "Defense and punishes",
+    "conditioning": "Tech-chase him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T16",
+    "label": "Out-of-shield punish",
+    "section": "Defense and punishes",
+    "conditioning": "After blocking my attack, land a grab directly out of shield.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T13",
+    "label": "Laser shot",
+    "section": "Fox techniques",
+    "conditioning": "Begin a laser attack.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "LX1",
+    "label": "Lasers as the main attack",
+    "section": "Fox techniques",
+    "conditioning": "Choose laser activations for most of your offensive commitments.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T6",
+    "label": "Shine",
+    "section": "Fox techniques",
+    "conditioning": "Activate your reflector.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T3",
+    "label": "Projectile reflection",
+    "section": "Fox techniques",
+    "conditioning": "Connect a reflection on a projectile.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T8",
+    "label": "Shine-spike",
+    "section": "Fox techniques",
+    "conditioning": "Shine-spike him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T15",
+    "label": "Waveshine",
+    "section": "Fox techniques",
+    "conditioning": "As Fox, combo a grounded shine into up smash by wavedashing out of the shine, making no other attack in between.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "FX1",
+    "label": "Fire Fox",
+    "section": "Fox techniques",
+    "conditioning": "Hit him with Fire Fox.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "T20",
+    "label": "Fox Illusion",
+    "section": "Fox techniques",
+    "conditioning": "Fox Illusion.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "LC1",
+    "label": "Laser camping",
+    "section": "Fox techniques",
+    "conditioning": "Keep your distance and shoot lasers.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "FUN2",
+    "label": "Multishine",
+    "section": "Fox techniques",
+    "conditioning": "Multishine.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "RX1",
+    "label": "No jumping",
+    "section": "Restrictions",
+    "conditioning": "Do not jump at all.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "RX2",
+    "label": "No attacking",
+    "section": "Restrictions",
+    "conditioning": "Don't start any attacks.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "RX3",
+    "label": "No special moves",
+    "section": "Restrictions",
+    "conditioning": "Avoid all specials, even when recovering.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "FUN1",
+    "label": "Taunt",
+    "section": "Extra moves",
+    "conditioning": "Taunt him.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "FUN3",
+    "label": "Platform laps",
+    "section": "Extra moves",
+    "conditioning": "Do platform laps.",
+    "stage": "Battlefield"
+  },
+  {
+    "id": "FUN4",
+    "label": "Ledge stall",
+    "section": "Extra moves",
+    "conditioning": "Stall on the ledge.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "FUN5",
+    "label": "Wavedash back and forth",
+    "section": "Extra moves",
+    "conditioning": "Wavedash back and forth.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "FUN6",
+    "label": "Tea-bag from a distance",
+    "section": "Extra moves",
+    "conditioning": "Tea-bag him from a distance.",
+    "stage": "Final Destination"
+  },
+  {
+    "id": "SX1",
+    "label": "Up special",
+    "section": "Special moves",
+    "conditioning": "Begin the Fire Fox move.",
+    "stage": "Final Destination"
+  }
+]

@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "reyn-pair"
+version = "0.1.0"
+description = "Reyn-Pair: experimental Fox 2v2 language steering for Super Smash Bros. Melee"
+requires-python = ">=3.11"
+dependencies = ["torch>=2.5", "numpy>=1.26"]
+
+[tool.setuptools.packages.find]
+include = ["reyn_doubles*"]
+
+[tool.setuptools.package-data]
+reyn_doubles = ["commands.json"]
+
+[tool.ruff]
+line-length = 110
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
