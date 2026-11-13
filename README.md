@@ -41,6 +41,7 @@ Use Python 3.12 and a PyTorch build that suits your device:
 git clone https://github.com/frisson-labs/Reyn.git
 cd Reyn
 python -m pip install .
+python -m pip install huggingface_hub
 hf download frisson-labs/Reyn-26C \
   --local-dir model-files
 ```
