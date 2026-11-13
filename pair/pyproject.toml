@@ -1,8 +1,10 @@
 [build-system]
-requires = ["setuptools>=68"]
+requires = ["setuptools>=77"]
 build-backend = "setuptools.build_meta"
 
 [project]
+license = "MIT"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
 name = "reyn-pair"
 version = "0.1.0"
 description = "Reyn-Pair: experimental Fox 2v2 language steering for Super Smash Bros. Melee"

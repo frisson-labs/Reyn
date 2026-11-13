@@ -4,6 +4,8 @@
 
 **Reyn-Pair** is an experimental Fox 2v2 model for **Super Smash Bros. Melee**. Give each Fox its own instruction, send the same command to both, or leave either Fox unsteered.
 
+> **Online play:** Please do not use these models in online matches without explicit permission from the other participants and the relevant platform or event organizers. Follow the platform's rules.
+
 The command reference covers 102 available instructions, including platform movement, attack choices, defense and team play. This is an experimental release, and commands can still miss or depend on the situation.
 
 <picture>
@@ -70,3 +72,9 @@ Reyn-Pair is Fox-only and experimental. Throw and combo requests need the right 
 With language steering OFF, the model won 31/32 games against a Faynt Fox pair, 32/32 against released Reyn 1v1 Fox policies, and 31/32 against a SmashBot Fox pair. These tests used four Foxes on Final Destination, four stocks, friendly fire on, normal damage, and no added action delay. They measure fighting strength, not command following.
 
 See the [command reference](docs/commands.md) for available instructions and the [results and limits](docs/results.md) for a short overview.
+
+## License
+
+Frisson Labs' inference code and model weights are released under the [MIT License](./LICENSE). See the [third-party notices](./THIRD_PARTY_NOTICES.md) for upstream attributions.
+
+The online-play warning is guidance; the MIT license terms are unchanged.

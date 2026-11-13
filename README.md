@@ -6,6 +6,8 @@
 
 <p align="center"><a href="#language-steering-in-action">Showcase</a> · <a href="#models">Models</a> · <a href="#quickstart">Quickstart</a> · <a href="#commands">Commands</a> · <a href="#language-steering">Language steering</a> · <a href="#reyn-pair">2v2</a> · <a href="#wombo-combo">Combos</a> · <a href="https://huggingface.co/collections/frisson-labs/reyn-6af5d6e9506dca3a131b13c3">Hugging Face</a></p>
 
+> **Online play:** Please do not use these models in online matches without explicit permission from the other participants and the relevant platform or event organizers. Follow the platform's rules.
+
 <p align="center"><strong>81.8% of test cases met their command-following target</strong><br />1,368 / 1,672 cases across the original-command and main special-move suites.</p>
 
 ## Language steering in action
@@ -198,6 +200,12 @@ print(prediction.action)
 ```
 
 Each bot needs a base observation and 186 features about its partner and the combo's scoring state. Use the [exact input schema](./docs/combo-inputs.md) to replace the synthetic values. Outputs contain two actions, labels and per-component logits. Wombo Combo has its own base weights and adapter and takes no language phrase.
+
+## License
+
+Frisson Labs' inference code and model weights are released under the [MIT License](./LICENSE). See the [third-party notices](./THIRD_PARTY_NOTICES.md) for upstream attributions.
+
+The online-play warning is guidance; the MIT license terms are unchanged.
 
 ---
 
